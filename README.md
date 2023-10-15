@@ -1,11 +1,14 @@
 # TWSIP_ATMInterface
 ATM Interface
+
 Welcome to the ATM System! This Java program simulates basic ATM functionalities such as checking balance, withdrawing, depositing, and transferring funds between accounts.
 
 Project Overview
+
 The ATM System project consists of a command-line application written in Java. It allows users to perform various banking operations after successful authentication.
 
 Features
+
 User Authentication: Users are required to enter their account number and PIN for authentication.
 
 Main Menu:
